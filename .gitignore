@@ -1,0 +1,5 @@
+# PyTorch models
+*.pth
+*.pt
+*.pkl
+*.h5
