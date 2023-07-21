@@ -5,12 +5,14 @@ Basic Implementation of machine learning and deep learning algorithms in pytorch
 
 - [x] Alexnet - `alexnet.py`
 - [x] Google Net - `google_net.py`
+- [x] Inception Net V2 - `inception_net_v2.py`
+- [x] Inception Net V3 - `inception_net_v3.py`
 - [x] Lenet5 - `lenet5.py`
 - [x] Mobile Net V1 - `mobile_net_v1.py`
 - [x] Mobile Net V2 - `mobile_net_v2.py`
 - [x] Resnet - `resnet.py`
-- [x] Shufflenet V1 - `shufflenet_v1.py`
-- [x] Shufflenet V2 - `shufflenet_v2.py`
+- [x] Shuffle Net V1 - `shuffle_net_v1.py`
+- [x] Shuffle Net V2 - `shuffle_net_v2.py`
 - [x] Simple Cnn - `simple_cnn.py`
 - [x] Simple Nn - `simple_nn.py`
 - [x] Squeeze Net - `squeeze_net.py`
